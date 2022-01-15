@@ -6,7 +6,7 @@ For this project, we developed an app that facilitates the parking process for A
 * Mariam Farghaly - https://github.com/Mariamfarghaly99
 * Mohamed Hassan - https://github.com/MohamedGamal99
 * Feras Awaga - https://github.com/FA1-cyber
-* Seif El Din-
+* Seif El Din- https://github.com/SeifEldinHani
 ***
 
 ### Submitted to:
