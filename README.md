@@ -28,5 +28,9 @@ Our parking space finder application aims to facilitate the parking process at t
 ## Languages used:
 * Java
 
+## App Storyboard:
+![Untitled Diagram drawio-4](https://user-images.githubusercontent.com/75340968/149639697-e3f5d5f9-0e12-4466-878d-84dbe1595d25.png)
+
+
 ## Technical Challenges
 * Integrating the activities together since we have divided the work amoung us.
