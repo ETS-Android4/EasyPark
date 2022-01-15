@@ -1,11 +1,13 @@
 # EasyPark
 For this project, we developed an app that facilitates the parking process for AUC students by indicating where can they find empty parking slots using Android Studio
 
+***
 ### Submitted by Group #1:
 * Mariam Farghaly - https://github.com/Mariamfarghaly99
 * Mohamed Hassan - https://github.com/MohamedGamal99
 * Feras Awaga- 
 * Seif El Din-
+***
 
 ### Submitted to:
 Dr. Mohamed Shalan
@@ -21,7 +23,7 @@ Our parking space finder application aims to facilitate the parking process at t
 * Safer parking
 
 ## Software Components:
-Android Studio
+* Android Studio
 
 ## Languages used:
 * Java
