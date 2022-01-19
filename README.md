@@ -33,10 +33,10 @@ Our parking space finder application aims to facilitate the parking process at t
 * JavaScript
 * Swift
 
-## App Storyboard:
-![Untitled Diagram drawio-4](https://user-images.githubusercontent.com/75340968/149639697-e3f5d5f9-0e12-4466-878d-84dbe1595d25.png)
+# App Storyboard:
+#![FinalStoryboard](https://user-images.githubusercontent.com/62557898/150237417-41553cad-222a-43d8-8b66-659e711e04d9.png)
 
-## Features Summary:
+## App Features:
 * Signing in with google sign in
 * Viewing parking status of each parking space
 * Reporting status of parking space
@@ -45,7 +45,6 @@ Our parking space finder application aims to facilitate the parking process at t
 * Viewing location of parking spaces on google maps
 * Navigating from current location to each parking space
 * Redeeming collected points from vendors around the university to get rewards
-
 
 ## Technical Challenges
 * Integrating the activities together since we have divided the work amoung us.
