@@ -12,8 +12,8 @@ For this project, we developed an app that facilitates the parking process for A
 ### Submitted to:
 Dr. Mohamed Shalan
 
-## Project Statement:
-Our parking space finder application aims to facilitate the parking process at the American University in Cairo by helping students locate the nearest empty parking slot. The parking lot will be divided into lanes, each lane having a specified name. Whenever a student parks in a specific lane, the student will then choose from the application the lane he/she parked in. The application will then increment the number of parked cars in a specific lane. This will update a database containing the number of parked cars per lane and display it on the application thus showing when a lane is full. Since the process of finding a parking spot has become more complicated with the growing number of cars. This mobile application is the need of the hour which will help people and save their time.
+## Project Description:
+Our parking space finder application aims to facilitate the parking process at the American University in Cairo by helping students and faculty locate the nearest empty parking slot. Whenever a student parks in a specific parking space, the student will then choose from the application the space he/she parked in. The application will then increment the number of parked cars in a specific lane. This will update a database containing the number of parked cars per space and display it on the application thus showing when a space is full. We will also provide the users with the ability to report the parking status of the parking spaces, and we will use both sources of information to get an estimate of the true status of the parking space. Moreover, we will be validating the location of the users when they use the application in order to gurantee that the application is not misused and gurantee the validity of the information reaching our database. In addition, in order to incentivise our users to use the application, we will grant them points for each time they use the application in an approperiate manner. They can later redeem these points for offers from vendors around the AUC.  Since the process of finding a parking spot has become more complicated with the growing number of cars. This mobile application is the need of the hour which will help people and save their time.
 
 ## Advantages:
 * Time Saver
@@ -24,9 +24,14 @@ Our parking space finder application aims to facilitate the parking process at t
 
 ## Software Components:
 * Android Studio
+* Xcode
+* Firebase
+* Node.Js
 
 ## Languages used:
 * Java
+* JavaScript
+* Swift
 
 ## App Storyboard:
 ![Untitled Diagram drawio-4](https://user-images.githubusercontent.com/75340968/149639697-e3f5d5f9-0e12-4466-878d-84dbe1595d25.png)
