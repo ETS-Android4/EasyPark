@@ -7,6 +7,8 @@ mysqlcon = Connection();
 app.use(BodyParser.json())
 
 let count = 0 
+
+//Script running in background to update status every 15 mins 
 const main = async function () {
     for (let val = 1 ; val <= 5 ; val ++){
         var current_count; 
@@ -36,7 +38,7 @@ const main = async function () {
 
 setInterval(function() {
     main().then(()=>console.log("Done"));
-}, 2000);
+}, 15 * 60 * 1000);
 
 
 const ret_status = (ret_value) =>{
