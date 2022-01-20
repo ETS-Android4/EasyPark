@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_car1.jpg.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/car1.jpg"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_row_item.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/row_item.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_cilantro.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/cilantro.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_email1.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_email1.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_username.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_username.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/font_rock_salt.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/font/rock_salt.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_auc.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/auc.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_phone_number.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_phone_number.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_password.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_username.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_username.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_password.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/password.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_signin.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/signin.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_activity_parking_spaces.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_parking_spaces.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_password.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/password.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_email1.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_email1.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_address.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_address.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_username.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_username.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_progress_bar.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/progress_bar.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_email1.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_email1.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_filldata.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/filldata.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_signup.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/signup.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_phone_number.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_phone_number.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_address.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_address.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_logout.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/logout.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_address.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_address.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_password.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/password.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_address.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_address.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_tabali.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/tabali.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_phone_number.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_phone_number.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/navigation_nav_graph.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_car.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/car.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_gradient_back.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/gradient_back.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_parking.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_parking.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_email.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/email.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_name.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/name.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_signup.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/signup.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_phone_number.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_phone_number.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/menu_bottom_navigation_menu.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/menu/bottom_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_password.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/password.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_signup.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/signup.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_email.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/email.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/font_archivo_black.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/font/archivo_black.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_parking.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_parking.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_email1.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_email1.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_phone_number.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_phone_number.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_action_parking.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/ic_action_parking.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_points.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/points.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_border.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/border.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_activity_maps.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_email.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_profile_pic.jpg.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/profile_pic.jpg"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_profile.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_signup.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/signup.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_pr.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/pr.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_parking.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_parking.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_tarwe2a.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/tarwe2a.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_name.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/name.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_username.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_username.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_subway.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/subway.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_activity_sign_up.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_action_parking.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xxhdpi/ic_action_parking.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_exit.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/exit.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_email.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/email.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_signup.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/signup.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_action_email1.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-xhdpi/ic_action_email1.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-anydpi_ic_action_name.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-anydpi/ic_action_name.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/layout_report_status.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/report_status.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable_borderleft.xml.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable/borderleft.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_username.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_username.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-mdpi_email.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-mdpi/email.png"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_action_address.png.flat",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/drawable-hdpi/ic_action_address.png"
+    }
+]

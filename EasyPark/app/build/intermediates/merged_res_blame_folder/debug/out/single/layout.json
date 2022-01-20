@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row_item.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/row_item.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/points.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/points.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_maps.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_parking_spaces.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_parking_spaces.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/signin.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/signin.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/profile.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/profile.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/report_status.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/report_status.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/filldata.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/filldata.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seifeldinhani/Desktop/EasyPark/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/Users/seifeldinhani/Desktop/EasyPark/app/src/main/res/layout/activity_sign_up.xml"
+    }
+]
