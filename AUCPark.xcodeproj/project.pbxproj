@@ -16,6 +16,12 @@
 		63E9EF9C2795A62600C1D8D2 /* AUCParkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EF9B2795A62600C1D8D2 /* AUCParkTests.swift */; };
 		63E9EFA62795A62600C1D8D2 /* AUCParkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFA52795A62600C1D8D2 /* AUCParkUITests.swift */; };
 		63E9EFA82795A62600C1D8D2 /* AUCParkUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFA72795A62600C1D8D2 /* AUCParkUITestsLaunchTests.swift */; };
+		63E9EFC3279655FC00C1D8D2 /* Map.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFC2279655FC00C1D8D2 /* Map.swift */; };
+		63E9EFC5279737BB00C1D8D2 /* MapsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFC4279737BB00C1D8D2 /* MapsViewController.swift */; };
+		63E9EFC72797483E00C1D8D2 /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFC62797483D00C1D8D2 /* TabBarViewController.swift */; };
+		63E9EFC927975CAD00C1D8D2 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFC827975CAD00C1D8D2 /* SignInViewController.swift */; };
+		63E9EFCB27983F7100C1D8D2 /* StatusViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFCA27983F7100C1D8D2 /* StatusViewController.swift */; };
+		63E9EFCD2798492600C1D8D2 /* WatsonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63E9EFCC2798492600C1D8D2 /* WatsonViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +55,12 @@
 		63E9EFA12795A62600C1D8D2 /* AUCParkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AUCParkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63E9EFA52795A62600C1D8D2 /* AUCParkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AUCParkUITests.swift; sourceTree = "<group>"; };
 		63E9EFA72795A62600C1D8D2 /* AUCParkUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AUCParkUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		63E9EFC2279655FC00C1D8D2 /* Map.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Map.swift; sourceTree = "<group>"; };
+		63E9EFC4279737BB00C1D8D2 /* MapsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapsViewController.swift; path = AUCPark/MapsViewController.swift; sourceTree = "<group>"; };
+		63E9EFC62797483D00C1D8D2 /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TabBarViewController.swift; path = AUCPark/TabBarViewController.swift; sourceTree = "<group>"; };
+		63E9EFC827975CAD00C1D8D2 /* SignInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SignInViewController.swift; path = AUCPark/SignInViewController.swift; sourceTree = "<group>"; };
+		63E9EFCA27983F7100C1D8D2 /* StatusViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StatusViewController.swift; path = AUCPark/StatusViewController.swift; sourceTree = "<group>"; };
+		63E9EFCC2798492600C1D8D2 /* WatsonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WatsonViewController.swift; path = AUCPark/WatsonViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +91,11 @@
 		63E9EF782795A62500C1D8D2 = {
 			isa = PBXGroup;
 			children = (
+				63E9EFCC2798492600C1D8D2 /* WatsonViewController.swift */,
+				63E9EFCA27983F7100C1D8D2 /* StatusViewController.swift */,
+				63E9EFC827975CAD00C1D8D2 /* SignInViewController.swift */,
+				63E9EFC62797483D00C1D8D2 /* TabBarViewController.swift */,
+				63E9EFC4279737BB00C1D8D2 /* MapsViewController.swift */,
 				63E9EF832795A62500C1D8D2 /* AUCPark */,
 				63E9EF9A2795A62600C1D8D2 /* AUCParkTests */,
 				63E9EFA42795A62600C1D8D2 /* AUCParkUITests */,
@@ -106,6 +123,7 @@
 				63E9EF8D2795A62600C1D8D2 /* Assets.xcassets */,
 				63E9EF8F2795A62600C1D8D2 /* LaunchScreen.storyboard */,
 				63E9EF922795A62600C1D8D2 /* Info.plist */,
+				63E9EFC2279655FC00C1D8D2 /* Map.swift */,
 			);
 			path = AUCPark;
 			sourceTree = "<group>";
@@ -258,8 +276,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				63E9EFCB27983F7100C1D8D2 /* StatusViewController.swift in Sources */,
+				63E9EFC927975CAD00C1D8D2 /* SignInViewController.swift in Sources */,
+				63E9EFCD2798492600C1D8D2 /* WatsonViewController.swift in Sources */,
+				63E9EFC5279737BB00C1D8D2 /* MapsViewController.swift in Sources */,
 				63E9EF892795A62500C1D8D2 /* ViewController.swift in Sources */,
 				63E9EF852795A62500C1D8D2 /* AppDelegate.swift in Sources */,
+				63E9EFC3279655FC00C1D8D2 /* Map.swift in Sources */,
+				63E9EFC72797483E00C1D8D2 /* TabBarViewController.swift in Sources */,
 				63E9EF872795A62500C1D8D2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
