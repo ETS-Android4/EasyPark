@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="size_entries">
+        <item>Almost Empty</item>
+        <item>Halfway Filled</item>
+        <item>Almost Filled</item>
+        <item>No Parking Spaces</item>
+    </string-array>
+</resources>

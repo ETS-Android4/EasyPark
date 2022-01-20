@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ScrollView
+        android:id="@+id/i"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/jj"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            tools:context=".MainActivity">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingTop="20dp"
+                    android:src="@drawable/auc">
+                </ImageView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="17dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/border"
+                    android:backgroundTint="#3597d8"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:fontFamily="@font/archivo_black"
+                    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                    android:onClick="myMethod"
+                    android:paddingTop="10dp"
+                    android:text="   Pepsi Gate"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/pepsi"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1.4"
+                    android:background="@drawable/borderleft"
+                    android:backgroundTint="#81BFEA"
+                    android:fontFamily="@font/archivo_black"
+                    android:paddingTop="10dp"
+                    android:textAlignment="center"
+                    android:textSize="24sp" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/ll2"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="17dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/border"
+                    android:backgroundTint="#33cb74"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:fontFamily="@font/archivo_black"
+                    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                    android:onClick="myMethod"
+                    android:paddingTop="10dp"
+                    android:text="   Gardens"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/gardens"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1.4"
+                    android:background="@drawable/borderleft"
+                    android:backgroundTint="#70E19F"
+                    android:fontFamily="@font/archivo_black"
+                    android:paddingTop="10dp"
+                    android:textAlignment="center"
+
+                    android:textSize="24sp">
+
+                </TextView>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll3"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="17dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/border"
+                    android:backgroundTint="#edc213"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:fontFamily="@font/archivo_black"
+                    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                    android:onClick="myMethod"
+                    android:paddingTop="10dp"
+                    android:text="   Bus Gate"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/bus"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1.4"
+                    android:background="@drawable/borderleft"
+                    android:backgroundTint="#F1D358"
+                    android:fontFamily="@font/archivo_black"
+                    android:paddingTop="10dp"
+                    android:textAlignment="center"
+                    android:textSize="24sp">
+
+                </TextView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll4"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView32"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="17dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/border"
+                    android:backgroundTint="#e55040"
+                    android:clickable="true"
+                    android:focusable="true"
+                    android:fontFamily="@font/archivo_black"
+                    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                    android:onClick="myMethod"
+                    android:paddingTop="10dp"
+                    android:text="   Omar Mohsen"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/mohsen"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1.4"
+                    android:background="@drawable/borderleft"
+                    android:backgroundTint="#EF695C"
+                    android:fontFamily="@font/archivo_black"
+                    android:paddingTop="10dp"
+                    android:textAlignment="center"
+                    android:textSize="24sp">
+                    >
+                </TextView>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll5"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView322"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginStart="17dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="0.6"
+                    android:background="@drawable/border"
+                    android:backgroundTint="#9a59b3"
+                    android:clickable="true"
+                    android:focusable="true"
+
+                    android:fontFamily="@font/archivo_black"
+                    android:foreground="?android:attr/selectableItemBackgroundBorderless"
+                    android:onClick="myMethod"
+                    android:paddingTop="10dp"
+                    android:text="   Watson"
+                    android:textAlignment="textStart"
+                    android:textColor="@color/white"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/watson"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginEnd="20dp"
+                    android:layout_marginBottom="5dp"
+                    android:layout_weight="1.4"
+                    android:background="@drawable/borderleft"
+                    android:backgroundTint="#a66dbe"
+                    android:fontFamily="@font/archivo_black"
+                    android:paddingTop="10dp"
+                    android:textAlignment="center"
+                    android:textSize="24sp">
+                    >
+                </TextView>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/i"
+        app:menu="@menu/bottom_navigation_menu"
+        app:labelVisibilityMode="labeled"
+        />
+
+</RelativeLayout>
