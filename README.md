@@ -1,5 +1,5 @@
 # EasyPark
-For this project, we developed an app that facilitates the parking process for AUC students by indicating where can they find empty parking slots using Android Studio
+For this project, we developed an app that facilitates the parking process for AUC students by indicating where can they find empty parking slots using Android Studio and Xcode.
 
 ***
 ### Submitted by Group #1:
@@ -33,9 +33,6 @@ Our parking space finder application aims to facilitate the parking process at t
 * JavaScript
 * Swift
 
-# App Storyboard:
-#![FinalStoryboard](https://user-images.githubusercontent.com/62557898/150237417-41553cad-222a-43d8-8b66-659e711e04d9.png)
-
 ## App Features:
 * Signing in with google sign in
 * Viewing parking status of each parking space
@@ -45,6 +42,9 @@ Our parking space finder application aims to facilitate the parking process at t
 * Viewing location of parking spaces on google maps
 * Navigating from current location to each parking space
 * Redeeming collected points from vendors around the university to get rewards
+
+# App Storyboard:
+![Untitled Diagram-3-2 drawio (1)](https://user-images.githubusercontent.com/75340968/150280917-b1b2cae1-b5f2-4c90-aeaa-42aa78511924.png)
 
 ## Technical Challenges
 * Integrating the activities together since we have divided the work amoung us.
