@@ -48,14 +48,13 @@ Our parking space finder application aims to facilitate the parking process at t
 * Navigating from current location to each parking space
 * Redeeming collected points from vendors around the university to get rewards
 
+# App Storyboard:
+![Untitled Diagram-3-2 drawio (1)](https://user-images.githubusercontent.com/75340968/150280917-b1b2cae1-b5f2-4c90-aeaa-42aa78511924.png)
 
 ## ERD Diagrams:
 ![project_erd_1 drawio](https://user-images.githubusercontent.com/62557898/150293130-be5fbe9d-31f0-40e1-a3ad-a4c4ad3bf59a.png)
 
 ![project_erd_2 drawio](https://user-images.githubusercontent.com/62557898/150292866-28ac224a-296b-4f2e-9aa4-9777417cd84a.png)
-
-# App Storyboard:
-![Untitled Diagram-3-2 drawio (1)](https://user-images.githubusercontent.com/75340968/150280917-b1b2cae1-b5f2-4c90-aeaa-42aa78511924.png)
 
 ## Technical Challenges
 * Integrating the activities together since we have divided the work amoung us.
