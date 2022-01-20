@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ParkingSpaces"
+        android:enabled="true"
+        android:icon="@drawable/car"
+        android:title="Parking View"
+        />
+
+    <item
+        android:id="@+id/Checkout"
+        android:enabled="true"
+        android:icon="@drawable/exit"
+        android:title="Checkout"/>
+    <item
+        android:id="@+id/Map"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_address"
+        android:title="Map" />
+    <item
+        android:id="@+id/Prof"
+        android:enabled="true"
+        android:icon="@drawable/pr"
+        android:title="Profile"/>
+
+    <item
+        android:id="@+id/signout"
+        android:enabled="true"
+        android:icon="@drawable/logout"
+        android:title="Sign out"/>
+</menu>
